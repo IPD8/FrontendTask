@@ -17,10 +17,15 @@
 
 <script>
 export default {
-  name: "Calculator"
+  name: "Calculator",
+  mounted() {
+
+  },
+  methods: {
+
+  }
 }
 </script>
 
-<style scoped>
-
+<style lang="scss">
 </style>
